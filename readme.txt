@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Test for GUI
 Test for visual source code
+Creating a new branch is quick AND simple.

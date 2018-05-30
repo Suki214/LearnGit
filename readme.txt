@@ -5,3 +5,4 @@ Git tracks changes of files.
 Test for GUI
 Test for visual source code
 Creating a new branch is quick and simple.
+merge with no-ff
